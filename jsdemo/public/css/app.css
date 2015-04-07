@@ -1,0 +1,78 @@
+label {
+    font-family: calibri;
+}
+
+.link {
+    border-radius: 8px;
+    font-size: 15px;
+    font-family: Calibri;
+    color: red;
+    background-color: white;
+}
+
+.submitbutton {
+    color: blue;
+    font-family: calibri;
+    font-size: 20px;
+}
+
+header {
+    font-family: Impact;
+    font-size: 50px;
+    color: lightseagreen;
+}
+
+.indexbody {
+    text-align: center;
+    background-color: navy;
+}
+
+.mainbutton {
+    font-size: 25px;
+    font-family: Impact;
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.page {
+    background-color: darkslategray;
+    text-align: center;
+
+}
+#area {
+    font-family: Impact;
+    font-size: 20px;
+}
+
+.title {
+    font-size: 24px;
+    font-family: Impact;
+    color: lightskyblue;
+}
+
+#subtitle {
+    font-size: 18px;
+    font-family: Impact;
+    color: white;
+    letter-spacing: 1.5px;
+}
+
+.input {
+    font-family: Calibri;
+    font-size: 20px;
+    color: white;
+}
+
+.submitbutton {
+    color: white;
+    background-color: green;
+    font-family: Impact;
+    letter-spacing: 1.5px;
+}
+
+.output {
+    color: white;
+    font-family: Calibri;
+    font-size: 30px;
+}
